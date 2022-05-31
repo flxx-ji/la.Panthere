@@ -664,7 +664,9 @@ h4 {
     background-color: #f3976c;
 }
 .tc-white {
-    color: #6f0000 !important;
+    color: #f37a68!important;
+    font-size: 18px;
+    
 }
 .btn-atomic-tangerine {
     background: #f3976c;

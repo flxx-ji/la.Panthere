@@ -569,6 +569,7 @@ p {
 .hero-bloc-text {
     font-size: 38px;
 }
+  
 .hero-bloc-text-sub {
     font-size: 36px;
 }
@@ -583,6 +584,7 @@ p {
 }
 p {
     font-size: 18px;
+    color: #6f0000;
 }
 .tight-width-whitespace {
     max-width: 950px;
@@ -622,7 +624,7 @@ h3 {
     box-shadow: 0 0 0 #000;
 }
 h1 {
-    color: #333 !important;
+    color: #6f0000 !important;
 }
 h4 {
     color: #333 !important;
@@ -665,8 +667,7 @@ h4 {
 }
 .tc-white {
     color: #f37a68!important;
-    font-size: 18px;
-    
+     
 }
 .btn-atomic-tangerine {
     background: #f3976c;
